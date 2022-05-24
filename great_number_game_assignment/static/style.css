@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    width: 250px;
+}
+button {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#toohigh, #toolow, #winner {
+    margin-top: 15px;
+}
+
+a {
+    margin-top: 20px;
+}
